@@ -1,3 +1,5 @@
+# removing data folder from commits
+data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
