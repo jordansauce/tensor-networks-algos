@@ -60,7 +60,7 @@ def load_mnist(data_path: str,
 
     return {
         'train': {
-            'images': train_images,
+            'images': train_images
             'labels': train_labels_one_hot
         },
         'test': {
