@@ -1,5 +1,11 @@
 # removing data folder from commits
 data/
+
+# remove temp and backup dirs
+t[e]mp/
+bkp/
+backup/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
