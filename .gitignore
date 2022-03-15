@@ -1,10 +1,15 @@
 # removing data folder from commits
-data/
+**data/
+**experiment/
+**experiments/
+
+**.vscode/
 
 # remove temp and backup dirs
 t[e]mp/
 bkp/
 backup/
+*.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
